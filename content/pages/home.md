@@ -1,10 +1,12 @@
-Title: Wagner lab
+Title: The Wagner Social Cognitive Neuroscience Laboratory
 URL:
 save_as: index.html
 status: hidden
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id tincidunt dolor. Vestibulum gravida viverra felis ut gravida. Curabitur at dui lacinia, mattis nisl non, fermentum orci. Suspendisse at dignissim libero. Ut dictum ipsum nec ligula convallis congue. Nulla suscipit convallis orci. Vivamus venenatis sed nulla sed semper. Nullam ornare neque eu arcu feugiat laoreet. Aliquam adipiscing quam at pharetra vestibulum. Curabitur auctor fermentum odio. Aliquam interdum tempus risus, nec cursus tellus volutpat vitae. Cras viverra nibh euismod pharetra bibendum. Fusce ut tellus non diam laoreet feugiat. Etiam aliquam nisi et consequat imperdiet. Aliquam sodales dui at accumsan malesuada.
+### The Wagner Social Cognitive Neuroscience Laboratory
 
-Integer convallis tristique lacus. Vestibulum consectetur neque vitae metus auctor vestibulum. Proin eros ante, tempor ut dolor quis, suscipit ornare elit. Phasellus non ullamcorper quam, a lacinia eros. Quisque faucibus dui lorem, a luctus augue pharetra at. Donec porta arcu non pulvinar volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+The Wagner Lab is located in the Department of Psychology at The Ohio State University. Research in the Wagner Lab is primarily focused on investigating how humans take disparate facts and observations about other persons and weave these into the complex and multidimensional character portraits that form the basis of our person knowledge. 
 
+Research in the Wagner Lab is also focused on examining the behavioral and neural mechanisms of self-regulation and its failure. In particular, we are interested in how people's subjective perceptions of the reward value of temptations is related to individual differences and situational contexts. 
 
+Research in the lab combines behavioral and brain imaging approaches with an emphesis on _reasonably naturalistic_ stimuli and contexts (e.g., movies, stories, natural scenes) to examine the relationship between social perception, self-regulation and the brain. 
