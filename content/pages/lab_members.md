@@ -27,6 +27,7 @@ Outside of the lab, Robert is also interested in data science, evolutionary theo
 
 
 ### Lab Manager
+<img width="135" style="float: left; margin:0 10px 10px 0" src="images/people_aml.jpg">
 **Allison Londerée**  
 [email](mailto:londeree.4@buckeyemail.osu.edu)
 
